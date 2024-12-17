@@ -1,1 +1,1 @@
-# Data-Science
+# Master Data Science & Analytics
